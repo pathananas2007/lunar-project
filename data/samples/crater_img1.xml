@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product_Observational xmlns="http://pds.nasa.gov/pds4/pds/v1">
+  <Identification_Area><product_id>ch2_crater_mock</product_id></Identification_Area>
+  <Observation_Area><Instrument><instrument_name>TMC-2</instrument_name></Instrument></Observation_Area>
+  <File_Area_Observational><Array_2D_Image><elements>512</elements><lines>512</lines></Array_2D_Image></File_Area_Observational>
+</Product_Observational>
