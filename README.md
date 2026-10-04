@@ -97,7 +97,7 @@ Every stage is computed from live pixel data:
 
 ## Architecture
 
-### Backend Stack
+### Backend Stack Structure 
 ```
 Framework:       FastAPI 0.115+
 Image Processing: OpenCV 5, scikit-image, scipy
